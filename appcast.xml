@@ -6,6 +6,17 @@
         <description>Stable updates for Vynts.</description>
         <language>en</language>
         <item>
+            <title>0.4.7</title>
+            <pubDate>Sun, 13 Sep 2026 09:57:34 +0000</pubDate>
+            <sparkle:channel>stable</sparkle:channel>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://tanishqdhama01.github.io/vynts-updates/releases/Vynts-0.4.7.md</sparkle:releaseNotesLink>
+            <enclosure url="https://tanishqdhama01.github.io/vynts-updates/releases/Vynts-0.4.7.zip" length="45451784" type="application/octet-stream" sparkle:edSignature="NjiXmmGB5JVjFYK0yeJuWqtIjHEFnM1xwIILoZu1XSnP7egNvae1DtCvURNl0KB9qE9uElLYRXgxnmoLpbd4Bg=="/>
+        </item>
+        <item>
             <title>0.4.6</title>
             <pubDate>Sat, 12 Sep 2026 09:50:10 +0000</pubDate>
             <sparkle:channel>stable</sparkle:channel>
